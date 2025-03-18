@@ -1,2 +1,3 @@
 # phpdesktop
-php_desktop_chrome_1.0.3
+phpdesktop chrome 1.0.3 with proprietary codecs
+php 8.4
