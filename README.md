@@ -1,6 +1,6 @@
 # phpdesktop
 #phpdesktop chrome 1.0.3 with proprietary codecs<br />
-#php 8.3<br />
+#PHP Version 8.4.4<br />
 #check original repo :<br />
 #https://github.com/cztomczak/phpdesktop/<br />
 # DOWNLOAD
