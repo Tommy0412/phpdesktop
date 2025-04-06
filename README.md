@@ -6,4 +6,4 @@
 # DOWNLOAD
 https://github.com/Tommy0412/phpdesktop/releases/download/phpdesktop_chrome_103/php_desktop_chrome_1.0.3_win_x64.7z
 https://github.com/Tommy0412/phpdesktop/releases/download/phpdesktop_chrome_112/phpdesktop_chrome_112_win_x64.7z
-![Download Count](https://img.shields.io/github/downloads/Tommy0412/phpdesktop/phpdesktop_chrome_112_win_x64.7z/total)
+![Download Count](https://img.shields.io/github/downloads/Tommy0412/phpdesktop_chrome_112/phpdesktop_chrome_112_win_x64.7z/total)
